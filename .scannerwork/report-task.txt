@@ -1,0 +1,6 @@
+projectKey=QC:QC_compiere-330
+serverUrl=https://sonar.rd.tut.fi/sonar75
+serverVersion=7.5.0.20543
+dashboardUrl=https://sonar.rd.tut.fi/sonar75/dashboard?id=QC%3AQC_compiere-330
+ceTaskId=AWjrwSJgnbimOWNEd99Z
+ceTaskUrl=https://sonar.rd.tut.fi/sonar75/api/ce/task?id=AWjrwSJgnbimOWNEd99Z
